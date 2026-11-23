@@ -79,7 +79,8 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 
 **## Output**
 
-![Uploading Screenshot 2026-11-23 105811.png…]()
+<img width="1837" height="1011" alt="Screenshot 2026-11-23 105811" src="https://github.com/user-attachments/assets/5cc3dc2a-d951-46d6-b003-57af009893ff" />
+
 
 ## Viva-Voce Questions
 
